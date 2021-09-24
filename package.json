@@ -5,7 +5,9 @@
   "repository": "https://github.com/basalcode/movieql.git",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.21.4",
     "graphql-yoga": "^1.18.3",
+    "node-fetch": "^3.0.0",
     "nodemon": "^2.0.12"
   },
   "scripts": {
