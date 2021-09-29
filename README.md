@@ -9,7 +9,7 @@ git clone https://github.com/basalcode/movieql.git
 ```
 * ### 패키지 설치
 ```PowerShell
-npm init
+npm install
 
 또는
 
