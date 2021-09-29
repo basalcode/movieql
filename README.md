@@ -42,4 +42,4 @@ localhost:4000으로 실행합니다.<br />
 * ### result
 <img src="./resultExample.png" alt="결과" /><br />
 
-> 참조 링크: https://nomadcoders.co/graphql-for-beginners/lectures/1718
+> 참조 링크: https://nomadcoders.co/graphql-for-beginners/lobby<br />
