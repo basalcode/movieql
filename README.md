@@ -24,7 +24,7 @@ npm run start
 
 yarn start
 ```
-localhost:4000 번으로 실행합니다.<br />
+localhost:4000으로 실행합니다.<br />
 <br />
 다음과 같은 화면이 나오면 성공!<br />
 
