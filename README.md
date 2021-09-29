@@ -1,14 +1,14 @@
-사용방법
+사용 방법
 ===
 다운로드 및 패키지 설치
 ---
 * ### 다운로드
 
-```
+```PowerShell
 git clone https://github.com/basalcode/movieql.git
 ```
 * ### 패키지 설치
-```
+```PowerShell
 npm init
 
 또는
@@ -17,14 +17,19 @@ yarn
 ```
 시작하기
 ---
-```
+```PowerShell
 npm run start
 
 또는
 
 yarn start
 ```
-localhost:4000 번으로 실행합니다.
+localhost:4000 번으로 실행합니다.<br />
+<br />
+다음과 같은 화면이 나오면 성공!<br />
+
+<img src="./executionResult.png" alt="실행 결과" /><br />
+
 
 예시
 ---
